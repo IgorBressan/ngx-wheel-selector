@@ -2,7 +2,7 @@
 
 As of Sep 4th 2020, ngx-wheel-selector is fully deprecated. No new changes are expected to land. In fact, none have been done for a long time.
 
-For more information about why request is deprecated
+For more information about why ngx-wheel-selector is drepecated and for future projects refer to
 [this issue](https://github.com/hblb/ngx-wheel-selector/issues/11).
 
 
