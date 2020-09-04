@@ -1,3 +1,11 @@
+# Deprecated!
+
+As of Sep 4th 2020, ngx-wheel-selector is fully deprecated. No new changes are expected to land. In fact, none have been done for a long time.
+
+For more information about why request is deprecated
+[this issue](https://github.com/hblb/ngx-wheel-selector/issues/11).
+
+
 [![NPM](https://nodei.co/npm/ngx-wheel-selector.png)](https://nodei.co/npm/ngx-wheel-selector/)
 
 # ngx-wheel-selector
